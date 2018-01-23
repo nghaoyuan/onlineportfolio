@@ -1,0 +1,682 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.qooqee.com/test/starter2017/01" resolutions="1x,2x" timestamp="1516718869400">
+  <folder name="css">
+    <file name="site_global.css" crc="4156651591"/>
+    <file name="master_master-page.css" crc="3967667362" ref="my-story:portfolio:contact:index"/>
+    <file name="nomq_preview_master_master-page.css" crc="499252367" ref="my-story:portfolio:contact:index"/>
+    <file name="my-story.css" crc="4004984970" ref="my-story"/>
+    <file name="nomq_my-story.css" crc="4224557163" ref="my-story"/>
+    <file name="portfolio.css" crc="3798579055" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="3761052893" ref="portfolio"/>
+    <file name="contact.css" crc="87337559" ref="contact"/>
+    <file name="nomq_contact.css" crc="46777105" ref="contact"/>
+    <file name="index.css" crc="3903810845" ref="index"/>
+    <file name="nomq_index.css" crc="436625149" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:my-story:contact"/>
+    <file name="museutils.js" crc="3803043152" ref="index:portfolio:my-story:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:portfolio:my-story:contact"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:portfolio:my-story:contact"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:portfolio:my-story:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:portfolio:my-story:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:my-story:contact"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:portfolio:my-story:contact"/>
+    <file name="require.js" crc="4157109226" ref="index:portfolio:my-story:contact"/>
+    <file name="webpro.js" crc="242022427" ref="portfolio:my-story"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="portfolio"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="portfolio"/>
+    <file name="touchswipe.js" crc="4066113679" ref="portfolio"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="my-story"/>
+  </folder>
+  <folder name="images">
+    <file name="img_3095.jpg" crc="335874296" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="driven flyer draft1-crop-u21738.jpg" crc="4044692255" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="driven flyer draft1-crop-u21738_2x.jpg" crc="3837264515" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="driven flyer draft3-crop-u21895.jpg" crc="4238562935" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="driven flyer draft3-crop-u21895_2x.jpg" crc="3829742267" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="drivenposter-crop-u21948.jpg" crc="399469498" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="drivenposter-crop-u21948_2x.jpg" crc="169043144" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="driven flyer draft1.jpg" crc="370505759" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="driven flyer draft1_2x.jpg" crc="365872465" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="portfolio:my-story:contact"/>
+    <file name="driven flyer draft3.jpg" crc="3979095109" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="driven flyer draft3_2x.jpg" crc="446185836" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="drivenposter-crop-u21934.jpg" crc="524324171" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="drivenposter-crop-u21934_2x.jpg" crc="504196424" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="portfolio"/>
+    <file name="img_0037-crop-u20746.jpg" crc="2558133" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0037-crop-u20746_2x.jpg" crc="3960314593" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0040-crop-u21634.jpg" crc="452837609" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0040-crop-u21634_2x.jpg" crc="3986292199" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0039-crop-u21586.jpg" crc="307507979" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0039-crop-u21586_2x.jpg" crc="300747002" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0042-crop-u21682.jpg" crc="3885853421" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0042-crop-u21682_2x.jpg" crc="3778427263" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0037.jpg" crc="327033163" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0037_2x.jpg" crc="4156850954" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0039-crop-u21572.jpg" crc="530410334" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0039-crop-u21572_2x.jpg" crc="505637623" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0040-crop-u21620.jpg" crc="3800981548" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0040-crop-u21620_2x.jpg" crc="351144796" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0042-crop-u21668.jpg" crc="258047122" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0042-crop-u21668_2x.jpg" crc="4029842433" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bridetobe-crop-u20596.jpg" crc="3794426392" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bridetobe-crop-u20596_2x.jpg" crc="231222342" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="donald duck-crop-u24520.jpg" crc="238929531" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="donald duck-crop-u24520_2x.jpg" crc="175773832" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rainbow backup-crop-u24623.jpg" crc="4006627014" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rainbow backup-crop-u24623_2x.jpg" crc="4023572198" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ravida21-crop-u24727.jpg" crc="268922000" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ravida21-crop-u24727_2x.jpg" crc="3799758283" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="omg sally is 31-crop-u22130.jpg" crc="528741629" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="omg sally is 31-crop-u22130_2x.jpg" crc="184930363" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="eeyore cake topper back-crop-u22082.jpg" crc="208753399" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="eeyore cake topper back-crop-u22082_2x.jpg" crc="4192724142" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="snoopy cake topper-crop-u24572.jpg" crc="263832216" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="snoopy cake topper-crop-u24572_2x.jpg" crc="421189921" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="twentyone cake topper-crop-u24675.jpg" crc="3897030238" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="twentyone cake topper-crop-u24675_2x.jpg" crc="4131687833" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bridetobe caketopper-crop-u24779.png" crc="3876132310" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bridetobe caketopper-crop-u24779_2x.png" crc="218379009" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="seashell caketopper-crop-u22178.jpg" crc="242106129" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="seashell caketopper-crop-u22178_2x.jpg" crc="3846656087" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bridetobe.jpg" crc="253107823" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bridetobe_2x.jpg" crc="4004830695" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="eeyore cake topper back-crop-u22068.jpg" crc="97142422" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="eeyore cake topper back-crop-u22068_2x.jpg" crc="4274631733" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="donald duck-crop-u24506.jpg" crc="4118899374" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="donald duck-crop-u24506_2x.jpg" crc="4202431573" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="snoopy cake topper-crop-u24558.jpg" crc="3825982939" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="snoopy cake topper-crop-u24558_2x.jpg" crc="488833740" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rainbow backup-crop-u24609.jpg" crc="4071327347" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rainbow backup-crop-u24609_2x.jpg" crc="4198562108" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="twentyone cake topper-crop-u24661.jpg" crc="4153332162" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="twentyone cake topper-crop-u24661_2x.jpg" crc="3971099099" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ravida21-crop-u24713.jpg" crc="233197330" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ravida21-crop-u24713_2x.jpg" crc="3801882955" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bridetobe caketopper-crop-u24765.png" crc="515826172" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bridetobe caketopper-crop-u24765_2x.png" crc="3970346377" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="omg sally is 31-crop-u22116.jpg" crc="95133108" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="omg sally is 31-crop-u22116_2x.jpg" crc="471199943" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="seashell caketopper-crop-u22164.jpg" crc="3860738267" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="seashell caketopper-crop-u22164_2x.jpg" crc="4223453302" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="driven flyer draft1-crop-u217382.jpg" crc="4123094905" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="driven flyer draft1-crop-u21738_2x2.jpg" crc="122395882" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="driven flyer draft3-crop-u218952.jpg" crc="157580902" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="driven flyer draft3-crop-u21895_2x2.jpg" crc="8109527" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="drivenposter-crop-u219482.jpg" crc="4054560957" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="drivenposter-crop-u21948_2x2.jpg" crc="3859725673" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="driven flyer draft1219x328.jpg" crc="3876594446" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="driven flyer draft1219x328_2x.jpg" crc="212380268" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="driven flyer draft3220x330.jpg" crc="4069057261" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="driven flyer draft3220x330_2x.jpg" crc="222905960" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="drivenposter-crop-u219342.jpg" crc="469249221" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="drivenposter-crop-u21934_2x2.jpg" crc="277174858" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0037-crop-u207462.jpg" crc="4292506952" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0037-crop-u20746_2x2.jpg" crc="3922372763" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0040-crop-u216342.jpg" crc="298388855" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0040-crop-u21634_2x2.jpg" crc="4101592182" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0039-crop-u215862.jpg" crc="224393608" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0039-crop-u21586_2x2.jpg" crc="108711322" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0042-crop-u216822.jpg" crc="267128651" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0042-crop-u21682_2x2.jpg" crc="27018983" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0037480x244.jpg" crc="4278543736" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0037480x244_2x.jpg" crc="375840398" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0039-crop-u215722.jpg" crc="3916369486" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0039-crop-u21572_2x2.jpg" crc="4227034229" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0040-crop-u216202.jpg" crc="336518844" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0040-crop-u21620_2x2.jpg" crc="4113983015" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0042-crop-u216682.jpg" crc="229527127" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0042-crop-u21668_2x2.jpg" crc="4289906830" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bridetobe-crop-u205962.jpg" crc="317734946" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bridetobe-crop-u20596_2x2.jpg" crc="3942818602" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="donald duck-crop-u245202.jpg" crc="298295289" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="donald duck-crop-u24520_2x2.jpg" crc="181151665" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rainbow backup-crop-u246232.jpg" crc="270283540" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rainbow backup-crop-u24623_2x2.jpg" crc="8153771" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ravida21-crop-u247272.jpg" crc="4050136297" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ravida21-crop-u24727_2x2.jpg" crc="4047853329" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="omg sally is 31-crop-u221302.jpg" crc="4252276172" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="omg sally is 31-crop-u22130_2x2.jpg" crc="3777008817" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="eeyore cake topper back-crop-u220822.jpg" crc="366982359" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="eeyore cake topper back-crop-u22082_2x2.jpg" crc="3976967451" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="snoopy cake topper-crop-u245722.jpg" crc="4142131105" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="snoopy cake topper-crop-u24572_2x2.jpg" crc="3779534035" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="twentyone cake topper-crop-u246752.jpg" crc="3847318969" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="twentyone cake topper-crop-u24675_2x2.jpg" crc="3832559083" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bridetobe caketopper-crop-u247792.png" crc="4225872459" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bridetobe caketopper-crop-u24779_2x2.png" crc="111564927" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="seashell caketopper-crop-u221782.jpg" crc="424654646" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="seashell caketopper-crop-u22178_2x2.jpg" crc="433973100" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bridetobe282x360.jpg" crc="389208791" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bridetobe282x360_2x.jpg" crc="238854033" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="eeyore cake topper back-crop-u220682.jpg" crc="12497565" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="eeyore cake topper back-crop-u22068_2x2.jpg" crc="4225861103" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="donald duck-crop-u245062.jpg" crc="3836985987" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="donald duck-crop-u24506_2x2.jpg" crc="4226543825" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="snoopy cake topper-crop-u245582.jpg" crc="4024728693" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="snoopy cake topper-crop-u24558_2x2.jpg" crc="3909639922" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rainbow backup-crop-u246092.jpg" crc="281031275" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rainbow backup-crop-u24609_2x2.jpg" crc="4194439153" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="twentyone cake topper-crop-u246612.jpg" crc="4081663436" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="twentyone cake topper-crop-u24661_2x2.jpg" crc="3996737257" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ravida21-crop-u247132.jpg" crc="3904630938" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ravida21-crop-u24713_2x2.jpg" crc="4159373388" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bridetobe caketopper-crop-u247652.png" crc="221278029" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bridetobe caketopper-crop-u24765_2x2.png" crc="307643836" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="omg sally is 31-crop-u221162.jpg" crc="4223510997" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="omg sally is 31-crop-u22116_2x2.jpg" crc="67677250" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="seashell caketopper-crop-u221642.jpg" crc="366198086" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="seashell caketopper-crop-u22164_2x2.jpg" crc="299798016" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="driven flyer draft1-crop-u217383.jpg" crc="29202860" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="driven flyer draft1-crop-u21738_2x3.jpg" crc="4012935772" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="driven flyer draft3-crop-u218953.jpg" crc="3895642097" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="driven flyer draft3-crop-u21895_2x3.jpg" crc="3836010808" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="drivenposter-crop-u219483.jpg" crc="3866371166" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="drivenposter-crop-u21948_2x3.jpg" crc="379843497" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="driven flyer draft1159x239.jpg" crc="3954447373" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="driven flyer draft1159x239_2x.jpg" crc="370505759" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="driven flyer draft3160x241.jpg" crc="488025132" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="driven flyer draft3160x241_2x.jpg" crc="3979095109" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="drivenposter-crop-u219343.jpg" crc="382207411" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="drivenposter-crop-u21934_2x3.jpg" crc="117386519" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0037-crop-u207463.jpg" crc="142385983" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0037-crop-u20746_2x3.jpg" crc="345618816" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0040-crop-u216343.jpg" crc="323218751" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0040-crop-u21634_2x3.jpg" crc="3924304251" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0039-crop-u215863.jpg" crc="342402377" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0039-crop-u21586_2x3.jpg" crc="491860016" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0042-crop-u216823.jpg" crc="4096865218" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0042-crop-u21682_2x3.jpg" crc="4144180485" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0037350x178.jpg" crc="63487062" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0037350x178_2x.jpg" crc="327033163" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0039-crop-u215723.jpg" crc="191364" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0039-crop-u21572_2x3.jpg" crc="4015118430" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0040-crop-u216203.jpg" crc="172197190" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0040-crop-u21620_2x3.jpg" crc="154182814" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0042-crop-u216683.jpg" crc="161165166" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0042-crop-u21668_2x3.jpg" crc="327526340" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bridetobe-crop-u205963.jpg" crc="3974129093" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bridetobe-crop-u20596_2x3.jpg" crc="464266133" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="donald duck-crop-u245203.jpg" crc="522828388" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="donald duck-crop-u24520_2x3.jpg" crc="88067180" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rainbow backup-crop-u246233.jpg" crc="348394561" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rainbow backup-crop-u24623_2x3.jpg" crc="3953908804" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ravida21-crop-u247273.jpg" crc="3804868308" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ravida21-crop-u24727_2x3.jpg" crc="4052137125" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="omg sally is 31-crop-u221303.jpg" crc="359820799" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="omg sally is 31-crop-u22130_2x3.jpg" crc="3920448077" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="eeyore cake topper back-crop-u220823.jpg" crc="383549623" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="eeyore cake topper back-crop-u22082_2x3.jpg" crc="240118067" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="snoopy cake topper-crop-u245723.jpg" crc="4217895391" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="snoopy cake topper-crop-u24572_2x3.jpg" crc="114181919" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="twentyone cake topper-crop-u246753.jpg" crc="4234738902" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="twentyone cake topper-crop-u24675_2x3.jpg" crc="213853189" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bridetobe caketopper-crop-u247793.png" crc="159538834" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bridetobe caketopper-crop-u24779_2x3.png" crc="307750742" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="seashell caketopper-crop-u221783.jpg" crc="252829597" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="seashell caketopper-crop-u22178_2x3.jpg" crc="242106129" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bridetobe205x263.jpg" crc="4284775287" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bridetobe205x263_2x.jpg" crc="253107823" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="eeyore cake topper back-crop-u220683.jpg" crc="3901802367" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="eeyore cake topper back-crop-u22068_2x3.jpg" crc="4056805527" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="donald duck-crop-u245063.jpg" crc="4046038382" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="donald duck-crop-u24506_2x3.jpg" crc="4087927467" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="snoopy cake topper-crop-u245583.jpg" crc="4202541129" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="snoopy cake topper-crop-u24558_2x3.jpg" crc="3816652675" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rainbow backup-crop-u246093.jpg" crc="494487293" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="rainbow backup-crop-u24609_2x3.jpg" crc="3899039585" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="twentyone cake topper-crop-u246613.jpg" crc="366154054" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="twentyone cake topper-crop-u24661_2x3.jpg" crc="3826031908" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ravida21-crop-u247133.jpg" crc="4186759736" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ravida21-crop-u24713_2x3.jpg" crc="277118044" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bridetobe caketopper-crop-u247653.png" crc="9533120" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bridetobe caketopper-crop-u24765_2x3.png" crc="4007529708" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="omg sally is 31-crop-u221163.jpg" crc="4256682270" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="omg sally is 31-crop-u22116_2x3.jpg" crc="3991006728" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="seashell caketopper-crop-u221643.jpg" crc="81588412" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="seashell caketopper-crop-u22164_2x3.jpg" crc="4121101400" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_0028.jpg" crc="4294309439" seo="true" ref="my-story">
+      <caption webpage="my-story" alt=""/>
+    </file>
+    <file name="img_0028_2x.jpg" crc="106352324" seo="true" ref="my-story">
+      <caption webpage="my-story" alt=""/>
+    </file>
+    <file name="nav_prev_01.png" crc="3939458904" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="nav_prev_01_2x.png" crc="4102107594" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="img_0028449x495.jpg" crc="3865460293" seo="true" ref="my-story">
+      <caption webpage="my-story" alt=""/>
+    </file>
+    <file name="img_0028449x495_2x.jpg" crc="3973423261" seo="true" ref="my-story">
+      <caption webpage="my-story" alt=""/>
+    </file>
+    <file name="img_0028327x361.jpg" crc="4289014526" seo="true" ref="my-story">
+      <caption webpage="my-story" alt=""/>
+    </file>
+    <file name="img_0028327x361_2x.jpg" crc="4294309439" seo="true" ref="my-story">
+      <caption webpage="my-story" alt=""/>
+    </file>
+    <file name="screenshot1.jpg" crc="4208990431" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="438532286" seo="true" mt="1516718755700" redirect="true"/>
+  <file name="portfolio.html" crc="3978700509" seo="true" mt="1516709076320" redirect="true"/>
+  <file name="my-story.html" crc="315009757" seo="true" mt="1516717663148" redirect="true"/>
+  <file name="contact.html" crc="3935410545" seo="true" mt="1516718841442" redirect="true"/>
+</manifest>
